@@ -9,7 +9,7 @@
 #
 app:
   name: TimeSwap # REQUIRED - Enter your app name
-  ios_id: 912209541 # REQUIRED - 10 Digit Numeric App ID (lookup in iTunes Connect)
+  ios_id: 1454171441 # REQUIRED - 10 Digit Numeric App ID (lookup in iTunes Connect)
   android_id: com.timeswap.timeswapcore # Optional - Enter Android app id like: com.example.app
 
   icon: # Leave blank to auto-magically populate
@@ -42,8 +42,8 @@ app:
 #
 # Marketing
 #
-marketing_header: Does Awesome Stuff # Optional
-marketing_desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+marketing_header: Hire students or earn cash! # Optional
+marketing_desc: TimeSwap allows you to hire students to help you when you need them most! Cash-strapped students can also sign up to be a 'Swapper' and get paid to help out on campus!
 
 #
 # Social Links
